@@ -1,8 +1,18 @@
-# React + Vite
+# Gemini Clone 💫
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, lightweight frontend clone of Google's **Gemini AI interface**, built with **React** and **Vite**. This project is perfect for learning frontend UI replication, design consistency, and building fast apps using modern tooling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ What is this?
+
+This is a **UI-only** clone of the Gemini chatbot interface — designed for educational and demonstration purposes. It replicates the layout and design flow of Gemini with a custom implementation using Vite + React.
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ **React** – Component-based UI
+- ⚡ **Vite** – Super-fast dev environment
+- 🎨 **CSS / Tailwind CSS** *(optional)* – For styling (customizable)
+- 💾 **Node.js & npm** – Dependency management
