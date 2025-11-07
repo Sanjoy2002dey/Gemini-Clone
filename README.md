@@ -1,5 +1,5 @@
 # Gemini Clone 💫
-
+Live link : https://sanjoygpt.netlify.app/
 A modern, lightweight frontend clone of Google's **Gemini AI interface**, built with **React** and **Vite**. This project is perfect for learning frontend UI replication, design consistency, and building fast apps using modern tooling.
 
 ---
